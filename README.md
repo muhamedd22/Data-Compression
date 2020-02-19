@@ -1,4 +1,4 @@
-# Data_Compression
+# Data-Compression
 
 Why we need to compress data : 
 
