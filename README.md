@@ -3,7 +3,9 @@
 Why we need to compress data : 
 
 ● To reduce the volume of data to be transmitted (text, fax, images).
+
 ● To reduce storage requirements (speech, audio, video). 
+
 ● To reduce the bandwidth required for transmission.
 
 the techniques used in this repository is : 
