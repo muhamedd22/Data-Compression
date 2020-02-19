@@ -12,6 +12,7 @@ import java.util.Vector;
  *
  * @author mbakr
  */
+// decompression 
 public class LZW {
     
     public static Vector<Dictionary> myDictionary = new Vector<>();
